@@ -1,6 +1,6 @@
 git add --a
 echo $1
-git commit -a -m 'hello'
+git commit -a -m 'update'
 #git push origin master
 
 
