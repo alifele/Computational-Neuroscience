@@ -1,0 +1,11 @@
+to see the animations you need to run the animations.py file in your terminal.
+
+pass the tau_I as the second argument to set the value of tau_I.
+
+
+For exmaple with running the following command in the terminal you can see the animation with tau_I =12
+
+
+$ python3 animations.py -tau_I 12
+
+
